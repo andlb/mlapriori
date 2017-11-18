@@ -24,3 +24,5 @@ Take the subset with the higher support
 Take the subset with the higher confidence.
 sort the rules by decrising the lift.
 
+Sparse matrix: is a matrix where the most part of the elements are zero. If the most part of the elements are nonzero is considered densy.
+
